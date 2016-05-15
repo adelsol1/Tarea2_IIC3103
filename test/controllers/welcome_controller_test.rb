@@ -1,6 +1,10 @@
 require 'test_helper'
 
 class WelcomeControllerTest < ActionController::TestCase
+
+  def test_the_truth
+    assert true
+  end
 #require_test_helper
 #class WelcomeControllerTest
 #definir clas estilo test
